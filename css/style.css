@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
+body{
+    background: rgb(167, 167, 167);
+}
+h1{
+    font-family: 'Lemonada', cursive;
+}
+
+hr{
+    width: 200px;
+    border: 2px solid rgb(5, 107, 190);
+    margin-bottom: -10px;
+    margin-top: -10px;
+
+   
+}
+
+
+.iconimage{
+    height: 50;  
+    margin-top: 18px;
+    margin-bottom: -15px;
+}
+
+
+p{
+    font-weight: 300;
+    font-size: 18px;
+    font-family: 'Source Code Pro', monospace;
+
+
+}
+
+.sidebar p{
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+}
+
+.sidesection{
+    padding: 10px;
+}
+
+.container{
+    min-height: 1200px;
+    width: 1000px;
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+    background-image: url("images/banner.jpg") ;
+    background-repeat: no-repeat;
+    background-size:1000px 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: -10px 20px 20px rgb(53, 53, 53);
+}
+.header{
+    min-height: 150px;
+    width: 400px;
+    background: rgb(255, 255, 255);
+    float: left;
+    margin:0;
+}
+.logo{
+    min-height: 100px;
+    width: 100px;
+    margin-top: 24px;
+    margin-left: 20px;
+    
+}
+.logoname{
+    font-size: 60px;
+    font-family: 'Zhi Mang Xing', cursive;
+    color: brown;
+    width: 65%;
+    float: right;
+    padding-top: 45px;
+    margin-left: -10px;
+}
+
+.sidebar{
+    min-height: 1050px;
+    width: 34%;
+    float: right;
+    margin: 150px 0px 0px;
+    background: rgba(83, 83, 83, 0.8);
+    z-index: 1;
+    text-align: center;
+    
+}
+
+
+.middiv{
+    text-align: center;
+    min-height: 150px;
+    width: 1000px;
+    float: left;
+    margin-top: 760px;
+    background: rgb(1, 111, 175);
+    z-index: 2;
+    position: absolute;
+}
+
+.middiv p{
+    padding: 0 50px;
+
+}
+.text-wrapper{
+    font-size: 69px;
+    padding: 40px;
+    width: 30%;
+    float: left;
+    font-family: 'Righteous', cursive;
+
+    color: rgb(0, 0, 0);
+    text-align: left;
+    text-shadow: -2px -2px rgb(255, 0, 0);
+}
+
+.leader{    
+    padding: 35px;
+    width: 59%;
+    float: left;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+  
+}
+.foot{
+    padding: 30px;
+    width: 60%;
+    float: left;
+    margin-top: 120px;
+}
+.information{
+    padding: 30px;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.smallicon{
+    height: 20px;
+    float: right;
+    width: 20%;
+
+}
+.contract{
+    width: ;
+}
